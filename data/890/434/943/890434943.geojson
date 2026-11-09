@@ -294,7 +294,7 @@
     "wd:wordcount":64,
     "wof:belongsto":[
         102191575,
-        85632737
+        1126128723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -318,7 +318,7 @@
     "wof:id":890434943,
     "wof:lastmodified":1566603426,
     "wof:name":"Marigot",
-    "wof:parent_id":85632737,
+    "wof:parent_id":1126128723,
     "wof:placetype":"locality",
     "wof:population":5700,
     "wof:population_rank":5,
